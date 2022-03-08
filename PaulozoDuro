@@ -12,7 +12,7 @@ _G.themes = _G.themes or { -- themes
 }
 
 -- init
-local NAME = "SevenZ"
+local NAME = "GilbertoMenu"
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/ZynoxT/TeamFX/main/Gb.txt"))()
 local GUI = library.new(NAME)
 
